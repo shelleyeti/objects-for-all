@@ -1,4 +1,4 @@
-# One Object For All
+# One Object For All and One for ALL
 
 Example of creating a database-methods object
 
