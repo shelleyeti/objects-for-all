@@ -1,0 +1,67 @@
+{
+  "junk": [
+    {
+      "id": 1,
+      "name": "Pencils",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Tape",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Watercolor Tube",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Ruler",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Portrait",
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "name": "Ribbon",
+      "categoryId": 3
+    }
+  ],
+  "category": [
+    {
+      "name": "Office",
+      "id": 1
+    },
+    {
+      "name": "Art",
+      "id": 2
+    },
+    {
+      "name": "Bell",
+      "id": 3
+    },
+    {
+      "name": "C32 Notes",
+      "id": 4
+    },
+    {
+      "name": "Crayon bits",
+      "id": 5
+    },
+    {
+      "name": "Colored Pencils",
+      "id": 6
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "foodId": 2,
+      "drinkId": 1
+    }
+  ]
+}
