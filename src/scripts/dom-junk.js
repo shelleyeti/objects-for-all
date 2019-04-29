@@ -19,3 +19,7 @@ const buildJunkDetailDom = (data) => {
         mainContainer.innerHTML += junkDetailDom(element);
     });
 };
+
+let dropDownOptionsHTML = (obj) => {
+  return `<option value="${obj.id}">${obj.name}</option>`;
+};
